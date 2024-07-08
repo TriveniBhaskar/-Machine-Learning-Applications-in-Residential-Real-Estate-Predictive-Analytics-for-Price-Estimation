@@ -1,0 +1,2 @@
+# -Machine-Learning-Applications-in-Residential-Real-Estate-Predictive-Analytics-for-Price-Estimation
+Implemented Python-based ML techniques for residential real estate price prediction using Pandas, NumPy, Scikit-learn, and TensorFlow/Keras. Conducted data cleaning, preprocessing, and feature engineering to enhance accuracy. Optimized models, achieving significant performance gains with ensemble methods and deep learning.
